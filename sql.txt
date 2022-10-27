@@ -1,0 +1,2 @@
+write sql in ide instead of cli
+execute sql code 
